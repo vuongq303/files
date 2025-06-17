@@ -14,7 +14,7 @@ function _0x2d06() {
     "forEach",
     "1576138uVDEgk",
     "2174480nQxRNo",
-    "http://192.168.22.2:3000",
+    "https://duancaoxala.com",
     "#register_v",
     "3npeMkE",
     "stringify",
